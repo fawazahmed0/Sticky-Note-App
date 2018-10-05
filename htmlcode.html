@@ -1,0 +1,45 @@
+<html>
+<head>
+<link rel="stylesheet" href="styles.css">
+<title>Sticky Note App</title>
+<script type='text/javascript' src='jscode.js'></script>
+</head>
+<body>
+<h1>Sticky Note App</h1>
+<div>
+
+
+  <input id="searchbar" type="text" class = "sea" placeholder="Search.." onkeyup="search()"   onblur="if(this.value=='')  document.getElementById('mylist').innerHTML='';"> 
+</div>
+<div>
+
+
+<textarea class = "sea" id = "Titletext" oninput = "upd()" rows="1">Untitled</textarea>
+</div>
+<div>
+<textarea class = "sea" id = "notetext"  oninput = "upd()" placeholder="notes..." rows="5"></textarea>
+</div>
+<div>
+
+
+<button type="button" id="add" onclick="add()">Add</button>
+<button type="button" id="delete" onclick="del()">Delete</button>
+</div>
+<div>
+
+
+<button type="button" id="prev" onclick="prev()"><---</button>
+<button type="button" id="next" onclick="next()">---></button>
+</div>
+<div>
+
+
+ <a href="#">
+<ul id="mylist">
+
+
+</ul>
+</a>
+</div>
+</body>
+</html>

@@ -1,0 +1,25 @@
+button {
+    background-color: #008CBA; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.sea {
+ 
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    margin: 5px 0;
+    
+}
+h1 {
+    color: #008CBA;
+     text-decoration: underline;
+}
