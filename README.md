@@ -2,7 +2,7 @@
 A Simple Sticky Note Application based on HTML,CSS and JavaScript
 
 ### Documentation:  
-Add your notes by typing in Title area and notes area
+Add your notes by typing in Title area and Notes area
 
 Click Add to add a new note
 
