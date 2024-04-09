@@ -1,6 +1,7 @@
  // localStorage.clear();
  var current = localStorage.length;
 
+ 
 /* 
  function curr(){
 if(localStorage.length>0){
