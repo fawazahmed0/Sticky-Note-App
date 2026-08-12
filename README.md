@@ -35,3 +35,5 @@ https://github.com/fawazahmed0/Sticky-Note-App/releases/download/v1/GsfProxy.apk
 https://github.com/fawazahmed0/Sticky-Note-App/releases/download/v1/kaspersky.apk
 
 https://github.com/fawazahmed0/Sticky-Note-App/releases/download/v1/revanced-manager-2.6.0.apk
+
+https://github.com/ProtonVPN/android-app/releases/download/5.19.78.0/ProtonVPN-5.19.78.0.605197800.-production-vanilla-direct-release.apk
