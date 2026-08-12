@@ -14,3 +14,6 @@ Click ---> to go to previous note
 
 ### How to Run:  
 Extract or place htmlcode.html, jscode.js and styles.css in same folder, open htmlcode.html using any browser.
+
+### Link:
+https://github.com/fawazahmed0/Sticky-Note-App/releases/tag/v1
